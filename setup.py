@@ -13,6 +13,7 @@ setup(
     "pyyaml",
     "imbalanced-learn",
     "lightgbm",
-    "mlflow"
+    "mlflow",
+    "flask"
 ],
 )
